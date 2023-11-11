@@ -1,0 +1,9 @@
+1) Change Directory -> cd
+2) List Command -> ls
+3) Clear Page -> clear
+4) Exit -> exit
+4) Make Directory -> mkdir
+5) Remove Directory -> rmdir
+6) Create File -> touch -> Example:  touch index.html ¡¡alert, is necessary the extension!!
+7) Remove File -> rm -> Example:  rm index.html ¡¡alert, is necessary the extension!!
+8) Edit File -> nano -> Example: nano index.html ¡¡alert, is necessary the extension!!
