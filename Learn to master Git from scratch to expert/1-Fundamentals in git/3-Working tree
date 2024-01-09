@@ -1,0 +1,12 @@
+*Spanish ->* The following commands were used and explained for each one:
+-Git status   #To know the current status of the repository.
+-Git add "file name"   #To add a file to the repository.
+-Git commit -m "message"   #To commit the changes made.
+-Git log   #To view the history of changes made.
+*English ->* The following commands were used and explained for each one:
+-Git status   #To know the current status of the repository.
+-Git add "file name"   #To add a file to the repository.
+-Git commit -m "message"   #To commit the changes made.
+-Git log   #To view the history of changes made.
+
+# 

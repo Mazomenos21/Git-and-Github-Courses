@@ -1,0 +1,9 @@
+*Spanish ->* Creamos una carpeta llamada "HelloGit" e inicializamos el git con "Git init"; Aparte utilizamos los comandos: 
+-cd ..   #Movernos atrás en las carpetas
+-cd "nombre carpeta"  #Entrar a una carpeta específica
+-mkdir "nombre de carpeta"   #Crear una carpeta.
+
+"We create a folder named "HelloGit" and initialize git with "Git init"; We also use the commands: 
+-cd .. #Move back in the folders 
+-cd "folder name" #Enter a specific folder 
+-mkdir "folder name" #Create a folder."
